@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, ich bin Pascal 👋
 
-<!--
-**Pjipp87/Pjipp87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Full Stack Entwickler aus Hof mit Fokus auf Business-Software und mobile Anwendungen.
 
-Here are some ideas to get you started:
+## Schwerpunkte
+- C# / .NET / ASP.NET Core
+- .NET MAUI für iOS, Android und macOS
+- REST APIs, SignalR
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Ausgewählte Projekte
+- MyAuthFramework – Authentifizierungs- und Autorisierungsframework für .NET
+- EntityBaseFields – Basisbibliothek für Audit-Felder und Soft Deletes mit EF Core
