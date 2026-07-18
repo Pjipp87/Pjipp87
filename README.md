@@ -1,13 +1,30 @@
-# Hi, ich bin Pascal 👋
+Hi, I'm Pascal 👋
 
-Junior Full Stack Entwickler aus Hof mit Fokus auf Business-Software und mobile Anwendungen.
+Full-Stack Software Developer from Germany 🇩🇪
 
-## Schwerpunkte
-- C# / .NET / ASP.NET Core
-- .NET MAUI für iOS, Android und macOS
-- REST APIs, SignalR
+I build modern business applications with the Microsoft .NET ecosystem, focusing on ASP.NET Core, .NET MAUI and enterprise software.
 
+Currently working on a cross-platform enterprise application used by multiple customers and thousands of employees.
 
-## Ausgewählte Projekte
-- MyAuthFramework – Authentifizierungs- und Autorisierungsframework für .NET
-- EntityBaseFields – Basisbibliothek für Audit-Felder und Soft Deletes mit EF Core
+## Tech Stack
+
+• C#
+• ASP.NET Core
+• .NET MAUI
+• REST APIs
+• SignalR
+• Microsoft Identity (MSAL)
+• SQL Server
+• Azure DevOps
+• Git
+
+## Currently learning
+
+• Software Architecture
+• Azure
+• Docker
+• Clean Architecture
+• Testing
+
+📫 https://jipp-development.de
+💼 LinkedIn
