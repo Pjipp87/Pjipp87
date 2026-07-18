@@ -26,5 +26,8 @@ Currently working on a cross-platform enterprise application used by multiple cu
 • Clean Architecture
 • Testing
 
-📫 https://jipp-development.de
-💼 LinkedIn
+📫 [Jipp-Devevelopment.de](https://jipp-development.de/)
+
+💼 [LinkedIn](www.linkedin.com/in/pascal-jipp-17b626213)
+
+💼 [Xing](https://www.xing.com/profile/Pascal_Jipp)
